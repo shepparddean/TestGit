@@ -19,5 +19,7 @@ public class Test {
 
     public static void fred() {
         //Like seeing the green changes..
+
+        int x = 0;
     }
 }
