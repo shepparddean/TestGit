@@ -22,18 +22,7 @@ public class Test {
 
         int x = 0;
 
+        //Ok John... wtf?
 
-        //
-
-
-
-
-
-        
-
-        //
-
-
-        //gfghfhg
     }
 }
